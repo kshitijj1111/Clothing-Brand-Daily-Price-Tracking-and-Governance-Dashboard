@@ -1,3 +1,12 @@
+## Note on Data
+
+Product, brand, and pricing data in this repo are illustrative/synthetic, structured to mirror a real production pricing feed. The dashboard design, data model, and DAX logic are original work.
+
+---
+
+*Built during a data/pricing analytics internship to automate what was previously a manual, spreadsheet-based daily price-check process.*
+
+
 # Urban Trail — Competitive Pricing Intelligence Dashboard
 
 A Power BI dashboard built to track daily price movements across e-commerce channels, benchmark against competitors, and flag margin erosion for a multi-category retail brand (apparel, footwear, bags, and accessories).
@@ -71,10 +80,3 @@ All tables join on **SKU**, with `Pricing Master` date ranges resolved against t
 └── README.md
 ```
 
-## Note on Data
-
-Product, brand, and pricing data in this repo are illustrative/synthetic, structured to mirror a real production pricing feed. The dashboard design, data model, and DAX logic are original work.
-
----
-
-*Built during a data/pricing analytics internship to automate what was previously a manual, spreadsheet-based daily price-check process.*
